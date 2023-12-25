@@ -31,6 +31,6 @@
 ![Spectrogram_Lupit example.](https://github.com/paui0615/DOPE-Analysis/assets/125962545/a09e2a42-a5ca-4e42-8d3f-f840a5e89f6f)
 
 # Citations
-- [Constraining S-wave velocity using Rayleigh wave ellipticity from polarization analysis of seismic noise.](https://academic.oup.com/gji/article/216/3/1817/5222650)
-- [Polarized Earth's ambient microseismic noise.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011GC003661)
-- [Constraining Chulin deep-seated landslide velocity structure with Rayleigh wave ellipticity.](http://tdr.lib.ntu.edu.tw/jspui/handle/123456789/86194)
+- [Constraining S-wave velocity using Rayleigh wave ellipticity from polarization analysis of seismic noise.(Berbellin et al., 2019)](https://academic.oup.com/gji/article/216/3/1817/5222650)
+- [Polarized Earth's ambient microseismic noise.(Schimmel et al., 2011)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011GC003661)
+- [Constraining Chulin deep-seated landslide velocity structure with Rayleigh wave ellipticity.(Huang, 2022)](http://tdr.lib.ntu.edu.tw/jspui/handle/123456789/86194)
