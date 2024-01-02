@@ -11,7 +11,6 @@
 # Usage
 `python Polarization.py`
 ### (Or other python scripts)
-![#f03c15]TEST`#f03c15`
 
 # Results
 `python Polarization.py`
